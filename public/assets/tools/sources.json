@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Figma",
+    "id": "figma",
+    "file": "figma.svg",
+    "source": "https://api.iconify.design/logos/figma.svg"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "id": "photoshop",
+    "file": "photoshop.svg",
+    "source": "https://api.iconify.design/logos/adobe-photoshop.svg"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "id": "illustrator",
+    "file": "illustrator.svg",
+    "source": "https://api.iconify.design/logos/adobe-illustrator.svg"
+  },
+  {
+    "name": "Adobe XD",
+    "id": "xd",
+    "file": "xd.svg",
+    "source": "https://api.iconify.design/logos/adobe-xd.svg"
+  },
+  {
+    "name": "Adobe Acrobat",
+    "id": "acrobat",
+    "file": "acrobat.svg",
+    "source": "https://api.iconify.design/simple-icons/adobeacrobatreader.svg?color=%23FF453A"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "id": "premiere",
+    "file": "premiere.svg",
+    "source": "https://api.iconify.design/logos/adobe-premiere.svg"
+  },
+  {
+    "name": "Adobe After Effects",
+    "id": "after-effects",
+    "file": "after-effects.svg",
+    "source": "https://api.iconify.design/logos/adobe-after-effects.svg"
+  },
+  {
+    "name": "Adobe Audition",
+    "id": "audition",
+    "file": "audition.svg",
+    "source": "https://api.iconify.design/simple-icons/adobeaudition.svg?color=%2354DFCD"
+  },
+  {
+    "name": "Clipchamp",
+    "id": "clipchamp",
+    "file": "clipchamp.png",
+    "source": "https://www.google.com/s2/favicons?domain=clipchamp.com&sz=64"
+  },
+  {
+    "name": "VideoScribe",
+    "id": "videoscribe",
+    "file": "videoscribe.png",
+    "source": "https://www.google.com/s2/favicons?domain=videoscribe.co&sz=64"
+  },
+  {
+    "name": "Articulate Rise 360",
+    "id": "rise",
+    "file": "rise.png",
+    "source": "https://www.google.com/s2/favicons?domain=articulate.com&sz=64"
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "id": "powerpoint",
+    "file": "powerpoint.svg",
+    "source": "https://api.iconify.design/vscode-icons/file-type-powerpoint.svg"
+  },
+  {
+    "name": "Team Deck",
+    "id": "teamdeck",
+    "file": "teamdeck.png",
+    "source": "https://www.google.com/s2/favicons?domain=teamdeck.io&sz=64"
+  },
+  {
+    "name": "RD Station",
+    "id": "rd-station",
+    "file": "rd-station.png",
+    "source": "https://www.google.com/s2/favicons?domain=rdstation.com&sz=64"
+  },
+  {
+    "name": "WordPress",
+    "id": "wordpress",
+    "file": "wordpress.svg",
+    "source": "https://api.iconify.design/logos/wordpress-icon.svg"
+  },
+  {
+    "name": "GitHub",
+    "id": "github",
+    "file": "github.svg",
+    "source": "https://api.iconify.design/logos/github-icon.svg"
+  },
+  {
+    "name": "ChatGPT",
+    "id": "chatgpt",
+    "file": "chatgpt.svg",
+    "source": "https://api.iconify.design/logos/openai-icon.svg"
+  },
+  {
+    "name": "Claude",
+    "id": "claude",
+    "file": "claude.svg",
+    "source": "https://api.iconify.design/logos/claude-icon.svg"
+  },
+  {
+    "name": "Grok",
+    "id": "grok",
+    "file": "grok.svg",
+    "source": "https://api.iconify.design/logos/grok-icon.svg"
+  },
+  {
+    "name": "Midjourney",
+    "id": "midjourney",
+    "file": "midjourney.svg",
+    "source": "https://api.iconify.design/logos/midjourney.svg"
+  },
+  {
+    "name": "Adobe Firefly",
+    "id": "firefly",
+    "file": "firefly.png",
+    "source": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=64"
+  },
+  {
+    "name": "Leonardo.ai",
+    "id": "leonardo",
+    "file": "leonardo.png",
+    "source": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=64"
+  },
+  {
+    "name": "Google VEO",
+    "id": "veo",
+    "file": "veo.png",
+    "source": "https://www.google.com/s2/favicons?domain=labs.google&sz=64"
+  },
+  {
+    "name": "Nano Banana",
+    "id": "nano-banana",
+    "file": "nano-banana.svg",
+    "source": "https://api.iconify.design/logos/google-gemini-icon.svg"
+  },
+  {
+    "name": "Notion",
+    "id": "notion",
+    "file": "notion.svg",
+    "source": "https://api.iconify.design/logos/notion-icon.svg"
+  },
+  {
+    "name": "Monday",
+    "id": "monday",
+    "file": "monday.svg",
+    "source": "https://api.iconify.design/logos/monday-icon.svg"
+  },
+  {
+    "name": "ClickUp",
+    "id": "clickup",
+    "file": "clickup.svg",
+    "source": "https://api.iconify.design/logos/clickup-icon.svg"
+  },
+  {
+    "name": "Trello",
+    "id": "trello",
+    "file": "trello.svg",
+    "source": "https://api.iconify.design/logos/trello.svg"
+  },
+  {
+    "name": "Microsoft Planner",
+    "id": "planner",
+    "file": "planner.png",
+    "source": "https://www.google.com/s2/favicons?domain=planner.cloud.microsoft&sz=64"
+  },
+  {
+    "name": "Miro",
+    "id": "miro",
+    "file": "miro.svg",
+    "source": "https://api.iconify.design/logos/miro-icon.svg"
+  },
+  {
+    "name": "Whimsical",
+    "id": "whimsical",
+    "file": "whimsical.png",
+    "source": "https://www.google.com/s2/favicons?domain=whimsical.com&sz=64"
+  },
+  {
+    "name": "Microsoft Teams",
+    "id": "teams",
+    "file": "teams.svg",
+    "source": "https://api.iconify.design/logos/microsoft-teams.svg"
+  },
+  {
+    "name": "Microsoft Excel",
+    "id": "excel",
+    "file": "excel.svg",
+    "source": "https://api.iconify.design/vscode-icons/file-type-excel.svg"
+  },
+  {
+    "name": "Word",
+    "id": "word",
+    "file": "word.svg",
+    "source": "https://api.iconify.design/vscode-icons/file-type-word.svg"
+  },
+  {
+    "name": "Outlook",
+    "id": "outlook",
+    "file": "outlook.svg",
+    "source": "https://api.iconify.design/vscode-icons/file-type-outlook.svg"
+  },
+  {
+    "name": "OneDrive",
+    "id": "onedrive",
+    "file": "onedrive.svg",
+    "source": "https://api.iconify.design/logos/microsoft-onedrive.svg"
+  },
+  {
+    "name": "Google Drive",
+    "id": "google-drive",
+    "file": "google-drive.svg",
+    "source": "https://api.iconify.design/logos/google-drive.svg"
+  },
+  {
+    "name": "Oracle",
+    "id": "oracle",
+    "file": "oracle.png",
+    "source": "https://www.google.com/s2/favicons?domain=oracle.com&sz=64"
+  }
+]
